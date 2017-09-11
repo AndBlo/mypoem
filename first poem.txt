@@ -2,6 +2,7 @@ The rainbow
 ***********
 
 Red
+Yellow
 Green
 Blue
 
